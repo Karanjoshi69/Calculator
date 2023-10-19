@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    border: black solid 7px;
+    border-radius: 25px;
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+    margin: 25px 30px;
+    padding: 15px 15px;
+    text-align: center;
+}
+
+.lmao{
+    line-height: 20px;
+    text-align: center;
+}
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    height: 90px;
+    color: white;
+    text-decoration: underline;
+}
+
+input{
+    border: solid black 2px;
+    border-radius: 6px;
+    width: 208px;
+    height: 35px;
+    font-size: 20px;
+}
+.lmao button{
+    font-size: 20px;
+    border: solid black 1px;
+    margin: 2px 4px;
+    padding: 7px 14px;
+    width: 45px;
+    height: 38px;
+    border-radius: 6px;
+    background-color: rgb(176, 169, 169);
+}
+.btn{
+    margin: 17px 2px;
+}
+.btn button:hover{
+    background-color:pink;
+}
+.btn .b1{
+    background-color: rgb(69, 65, 65);
+}
+.btn .AC{
+    background-color: rgb(217, 38, 38);
+}
+
+/* button{
+    width: 45px;
+    height: 38px;
+    border: red solid 1px;
+} */
